@@ -1,2 +1,3 @@
-# altinn-brukerservice
-Åpen backlog for Altinn brukerservices (ABS)
+# Altinn brukerservice (ABS)
+
+Åpen backlog for Altinn brukerservice.
